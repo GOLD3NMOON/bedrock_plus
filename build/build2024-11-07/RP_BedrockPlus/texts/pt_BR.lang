@@ -1,0 +1,5 @@
+pack.name=Bedrock Plus [RP]
+pack.description=Resource pack para o addon bedrock plus
+
+item.bedrock_plus:foods.grape=Uva
+bedrock_plus.foods.grape.texture=Uva

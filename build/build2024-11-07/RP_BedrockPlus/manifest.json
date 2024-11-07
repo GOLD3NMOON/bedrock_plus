@@ -1,0 +1,17 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "Bedrock Plus",
+        "description": "Resource pack for bedrock plus",
+        "uuid": "b8f5d4d6-1234-40c6-b029-d7f6c829e9ef",
+        "version": [0, 0, 1],
+        "min_engine_version": [1, 16, 0]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "d32b4b76-6fd3-46d9-a901-c1861a28be22",
+            "version": [1, 0, 0]
+        }
+    ]
+}

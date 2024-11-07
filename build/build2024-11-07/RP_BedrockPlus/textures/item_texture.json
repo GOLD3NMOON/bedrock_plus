@@ -1,0 +1,9 @@
+{
+    "resource_pack_name": "bedrock_plus",
+    "texture_name": "atlas.items",
+    "texture_data": {
+        "bedrock_plus.foods.grape.texture": {
+            "textures": "textures/items/foods/grape"
+        }
+    }
+}

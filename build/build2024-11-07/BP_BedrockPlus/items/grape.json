@@ -1,0 +1,26 @@
+{
+  "format_version": "1.21",
+  "minecraft:item": {
+    "description": {
+      "identifier": "bedrock_plus:foods.grape",
+      "menu_category": {
+        "category": "items"
+      },
+      "is_experimental": false
+    },
+    "components": {
+      "minecraft:max_stack_size": 16,
+      "minecraft:icon": "bedrock_plus.foods.grape.texture",
+      "minecraft:food": {
+        "nutrition": 2,
+        "saturation_modifier": 0.3,
+        "can_always_eat": true
+      },
+      "minecraft:use_animation": "eat",
+      "minecraft:use_modifiers": {
+        "use_duration": 1.6,
+        "movement_modifier": 0.35
+      }
+    }
+  }
+}

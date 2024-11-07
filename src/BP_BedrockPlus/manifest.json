@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "bedrock plus",
+    "description": "Bedrock Plus Data Pack for Minecraft Bedrock. Complements the Resource Pack by adding data for new gameplay features, items, and adventures.",
+    "uuid": "e0c1a27f-9b42-4518-bd99-19c8a6d1bf07",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      16,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "de045427-84e4-4345-b446-b5d680c67e30",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}
