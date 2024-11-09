@@ -1,4 +1,6 @@
-
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 # 🌍 **Bedrock Plus** - Minecraft Bedrock Addon
 
 **Bedrock Plus** is an exciting addon for **Minecraft Bedrock Edition** that enhances your gameplay with new items, biomes, and challenges. Experience a whole new level of adventure as you dive into unexplored territories, uncover rare items, and take on new challenges!
@@ -71,10 +73,4 @@ Thank you for trying out **Bedrock Plus**! We hope you enjoy this new and exciti
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
 <!-- ALL-CONTRIBUTORS-LIST:END -->
