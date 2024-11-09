@@ -67,3 +67,14 @@ Follow us on social media for updates, discussions, and community events:
 - **Discord**: [Join our server](<https://discord.gg/YUV3SyWMhW>)
 
 Thank you for trying out **Bedrock Plus**! We hope you enjoy this new and exciting addition to your Minecraft Bedrock experience. ✨
+
+## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
