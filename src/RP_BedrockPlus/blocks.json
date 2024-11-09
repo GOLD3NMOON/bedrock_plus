@@ -1,0 +1,14 @@
+{
+    "format_version": "1.21",
+    "bedrock_plus:blocks?shadow_grass": {
+        "textures": {
+            "up": "bedrock_plus:blocks?shadow_grass?texture?top",
+            "down": "bedrock_plus:blocks?shadow_grass?texture?top",
+            "north": "bedrock_plus:blocks?shadow_grass?texture?side",
+            "east": "bedrock_plus:blocks?shadow_grass?texture?side",
+            "south": "bedrock_plus:blocks?shadow_grass?texture?side",
+            "west": "bedrock_plus:blocks?shadow_grass?texture?side"
+        },
+        "sound": "grass"
+    }
+}

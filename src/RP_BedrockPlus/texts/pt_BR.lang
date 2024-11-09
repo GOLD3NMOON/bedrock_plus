@@ -1,4 +1,5 @@
 pack.name=Bedrock Plus [RP]
 pack.description=Resource pack para o addon bedrock plus
 
-item.bedrock_plus:foods/grape=Uva
+item.bedrock_plus:foods?grape=Uva
+tile.bedrock_plus:blocks?shadow_grass.name=Grama Sombria

@@ -2,7 +2,7 @@
   "format_version": "1.21",
   "minecraft:item": {
     "description": {
-      "identifier": "bedrock_plus:foods/grape",
+      "identifier": "bedrock_plus:foods?grape",
       "menu_category": {
         "category": "items"
       },
@@ -10,7 +10,7 @@
     },
     "components": {
       "minecraft:max_stack_size": 16,
-      "minecraft:icon": "bedrock_plus.foods.grape.texture",
+      "minecraft:icon": "bedrock_plus:foods?grape?texture",
       "minecraft:food": {
         "nutrition": 2,
         "saturation_modifier": 0.3,

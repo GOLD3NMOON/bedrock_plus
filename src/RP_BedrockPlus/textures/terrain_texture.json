@@ -2,13 +2,11 @@
     "resource_pack_name": "bedrock_plus",
     "texture_name": "atlas.terrain",
     "texture_data": {
-        "bedrock_plus.blocks.grape_brush.texture": {
-            0: "textures/blocks/plants/grape/sweet_berry_bush_stage0",
-            1: "textures/blocks/plants/grape/sweet_berry_bush_stage1",
-            2: "textures/blocks/plants/grape/sweet_berry_bush_stage2",
-            3: "textures/blocks/plants/grape/sweet_berry_bush_stage3",
-            4: "textures/blocks/plants/grape/sweet_berry_bush_stage3_1",
-            5: "textures/blocks/plants/grape/sweet_berry_bush_stage3_2"
+        "bedrock_plus:blocks?shadow_grass?texture?top": {
+            "textures": "textures/blocks/shadow_grass/mycelium_top"
+        },
+        "bedrock_plus:blocks?shadow_grass?texture?side": {
+            "textures": "textures/blocks/shadow_grass/mycelium_side"
         }
     }
 }
